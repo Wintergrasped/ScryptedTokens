@@ -1,0 +1,16 @@
+name: ScryptednetGlobalTokens
+version: 1.0
+description: ScryptednetGlobalTokens
+author: Wintergrasped
+main: net.wmcsn.winter.MainClass
+commands:
+  tokengive:
+   description: The NSHC command!
+  tokenset:
+   description: The NSHC command!
+  token:
+   description: The NSHC command!
+  tokenshop:
+   description: The NSHC command!
+  ts:
+   description: The NSHC command!
